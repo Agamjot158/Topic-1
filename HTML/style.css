@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(243, 247, 243);
+    background-color: rgb(46, 47, 46);
     }
     
     h1 {
-    color: rgb(3, 0, 0);
+    color: rgb(247, 242, 242);
     text-align: center;
     font-size: 50;
     font-family: 'Times New Roman';
     }
 
     h2 {
-    color: rgb(3, 0, 0);
+    color: rgb(247, 242, 242);
     text-align: left;
     font-size: 30;
     font-family: 'Times New Roman';
@@ -19,4 +19,11 @@ body {
     p {
     font-family: 'cambria';
     font-size: 20px;
+    color: rgb(247, 242, 242);
     }
+
+    ul {
+        font-family: "cambria";
+        font-size: 20px;
+        color: rgb(247, 242, 242);
+        }
